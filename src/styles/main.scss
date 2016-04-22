@@ -1,0 +1,26 @@
+body {
+    font-family: "Open Sans", sans-serif;
+    text-align: center;
+    color: #333;
+    background-image: linear-gradient(to top right, #32936F, #26A96C);
+}
+
+.line{
+  fill: none;
+  stroke: #fff;
+}
+.domain {
+    // fill: #395E66;
+    fill: none;
+    stroke: #fff;
+}
+.tick {
+    fill: #fff;
+}
+
+footer {
+    margin-top: 3em;
+}
+.small {
+    font-size: 0.8em;
+}
